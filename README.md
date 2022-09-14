@@ -1,12 +1,10 @@
 # Weather App (Mobile & Desktop)
 
-![image](<img width="959" alt="weather-app-desktop" src="https://user-images.githubusercontent.com/52459612/190121503-04abb3cd-4e17-462b-ab61-335d738b16b0.png">
-)
+![image](https://user-images.githubusercontent.com/52459612/190121503-04abb3cd-4e17-462b-ab61-335d738b16b0.png)
 
 ## Mobile Screen
 
-![image](<img width="259" alt="weather-app-mobile" src="https://user-images.githubusercontent.com/52459612/190121857-ab00a31c-b6c6-428d-b91a-d65b6e51aa15.png">
-)
+![image](https://user-images.githubusercontent.com/52459612/190121857-ab00a31c-b6c6-428d-b91a-d65b6e51aa15.png)
 
 ## Live Site Link:
 
